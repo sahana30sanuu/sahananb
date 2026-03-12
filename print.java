@@ -1,0 +1,4 @@
+class pruthvi
+{ public static void main(String args[]){
+	System.out.println("Welcome to se lab")}
+}
